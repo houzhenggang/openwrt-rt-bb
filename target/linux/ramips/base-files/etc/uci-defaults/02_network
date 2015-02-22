@@ -103,6 +103,7 @@ ramips_setup_interfaces()
 	dir-320-b1 | \
 	dir-615-h1 | \
 	hlk-rm04 | \
+	p4f-001 | \
 	mzk-w300nh2 | \
 	mzk-750dhp)
 		ucidef_set_interfaces_lan_wan "eth0.1" "eth0.2"
@@ -255,6 +256,7 @@ ramips_setup_macs()
 	mpr-a2 | \
 	dir-300-b7 | \
 	dir-320-b1 | \
+	p4f-001 | \
 	psr-680w |\
 	sl-r7205 |\
 	y1 |\
